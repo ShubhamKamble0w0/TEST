@@ -3,6 +3,5 @@
 
 ### I am `shubham kamble` 
 ---
-I am Mechanical engineering student form <br>
-`pune university`
+I am Mechanical engineering student form `pune university`
 
